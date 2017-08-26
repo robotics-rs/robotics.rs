@@ -40,5 +40,5 @@ List of awesome Rust libraries for Robotics.
 
 *Import/Export various files related with Robotics*
 
-[assimp-rs](https://github.com/Eljay/assimp-rs) - Rust bindings for the Assimp library.
-[urdf-rs](https://github.com/OTL/urdf-rs) - URDF Loader for Rust
+* [assimp-rs](https://github.com/Eljay/assimp-rs) - Rust bindings for the Assimp library.
+* [urdf-rs](https://github.com/OTL/urdf-rs) - URDF Loader for Rust
