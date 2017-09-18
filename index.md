@@ -1,4 +1,4 @@
-# Awesome Rust Robotics
+# Awesome Rust for Robotics
 
 List of awesome Rust libraries for Robotics.
 
@@ -42,3 +42,9 @@ List of awesome Rust libraries for Robotics.
 
 * [assimp-rs](https://github.com/Eljay/assimp-rs) - Rust bindings for the Assimp library.
 * [urdf-rs](https://github.com/OTL/urdf-rs) - URDF Loader for Rust
+
+## Device Driver
+
+*Robotics releated sensor/motor drivers*
+
+* [libsweep](https://github.com/andygrove/libsweep-rs) - Rust wrapper for Scanse Sweep LIDAR libsweep
