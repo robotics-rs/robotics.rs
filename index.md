@@ -1,6 +1,6 @@
-# Awesome Rust for Robotics
+# Rust is for Robotics
 
-List of awesome Rust libraries for Robotics.
+List of (awesome) Rust libraries for Robotics. If you know something awesome (or your project), please let me know from [here](https://github.com/robotics-rs/robotics.rs/pulls).
 
 ## ROS
 
@@ -14,7 +14,9 @@ List of awesome Rust libraries for Robotics.
 
 * [nalgebra](https://github.com/sebcrozet/nalgebra) - Linear algebra library for Rust.
 * [ncollide](https://github.com/sebcrozet/ncollide) - 2 and 3-dimensional collision detection library in Rust.
-
+* [kdtree](https://github.com/mrhooray/kdtree-rs) -
+K-dimensional tree in Rust for fast geospatial indexing.
+* [k](https://github.com/OTL/k) -  k: Kinematics Library for rust-lang.
 
 ## Path Planning
 
