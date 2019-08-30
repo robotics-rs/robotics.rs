@@ -7,7 +7,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 *[ROS](http://www.ros.org/) related libraries.*
 
 * [rosrust](https://github.com/adnanademovic/rosrust) - Pure Rust implementation of a ROS client library.
-* [ros2_rust](https://github.com/esteve/ros2_rust) -  Rust bindings for ROS2
+* [ros2_rust](https://github.com/ros2-rust/ros2_rust) -  Rust bindings for ROS2
 * [rosbug](https://github.com/SkoltechRobotics/rosbag-rs) - Reading rosbag files in pure Rust
 
 ## Math and Geometry
