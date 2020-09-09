@@ -10,6 +10,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [ros2_rust](https://github.com/ros2-rust/ros2_rust) -  Rust bindings for ROS2
 * [rosbug](https://github.com/SkoltechRobotics/rosbag-rs) - Reading rosbag files in pure Rust
 * [rustros_tf](https://github.com/arjo129/rustros_tf) - A rust implmentation of the Tf library.
+* [optimization-engine](https://alphaville.github.io/optimization-engine/) - Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems
 
 ## Math and Geometry
 
@@ -19,6 +20,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [ncollide](https://github.com/sebcrozet/ncollide) - 2 and 3-dimensional collision detection library in Rust.
 * [kdtree](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing.
 * [k](https://github.com/OTL/k) -  k: Kinematics Library for rust-lang.
+* [static-math](https://github.com/elsuizo/static-math) - Safe and fast mathematical operations with static arrays in Rust programming language thinked for robotics
 
 ## Path Planning
 
