@@ -12,6 +12,12 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [rustros_tf](https://github.com/arjo129/rustros_tf) - A rust implmentation of the Tf library.
 * [optimization-engine](https://alphaville.github.io/optimization-engine/) - Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems
 
+## gRPC
+
+*[gRPC](https://grpc.io/) A high performance, open source universal RPC framework.*
+
+* [CleanIt](https://github.com/Sollimann/CleanIt) - Open-source Autonomy Software in Rust-lang with gRPC for the Roomba series robot vacuum cleaners.
+
 ## Math and Geometry
 
 *Math related libraries for Robotics.*
