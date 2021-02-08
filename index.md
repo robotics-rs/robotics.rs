@@ -63,3 +63,4 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 
 * [libsweep](https://github.com/andygrove/libsweep-rs) - Rust wrapper for Scanse Sweep LIDAR libsweep
 * [freenect-rs](https://github.com/Entscheider/freenect-rs) - Freenect wrapper for rust
+* [rplidar-rs](https://github.com/cnwzhjs/rplidar.rs) - Slamtec RPLIDAR public SDK for Rust
