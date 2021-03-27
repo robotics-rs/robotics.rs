@@ -31,6 +31,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [kdtree](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing.
 * [k](https://github.com/OTL/k) -  k: Kinematics Library for rust-lang.
 * [static-math](https://github.com/elsuizo/static-math) - Safe and fast mathematical operations with static arrays in Rust programming language thinked for robotics
+* [ndarray](https://github.com/rust-ndarray/ndarray) - N-dimensional tensor arithmetic library, inspired by python's NumPy.
 
 ## Path Planning
 
