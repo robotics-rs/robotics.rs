@@ -39,8 +39,8 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 *Path planning libraries.*
 
 * [pathfinding](https://github.com/samueltardieu/pathfinding) - Pathfinding library for rust
-* [rrt](https://github.com/OTL/rrt) - RRT (Rapidly-exploring Random Tree) library in Rust
-* [gear](https://github.com/OTL/gear) - Collision Avoidance Path Planning in Rust-lang
+* [rrt](https://github.com/openrr/rrt) - RRT (Rapidly-exploring Random Tree) library in Rust
+* [openrr-planner](https://github.com/openrr/openrr) - Collision Avoidance Path Planning in Rust-lang
 
 ## Simulation
 
@@ -53,7 +53,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 *Graphic and visualization for Robotics.*
 
 * [kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
-* [urdf-viz](https://github.com/OTL/urdf-viz) - URDF visualizer
+* [urdf-viz](https://github.com/openrr/urdf-viz) - URDF visualizer
 
 ## File Loading
 
@@ -72,3 +72,4 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [rplidar-rs](https://github.com/cnwzhjs/rplidar.rs) - Slamtec RPLIDAR public SDK for Rust
 * [dynpick-force-torque-sensor](https://github.com/Amelia10007/dynpick-force-torque-sensor-rs) - Wacoh-tech 6-axis force sensor (Dynpick) driver
 * [leptrino-force-torque-sensor](https://github.com/Amelia10007/leptrino-force-torque-sensor-rs) - Leptrino 6-axis force sensor driver
+* [realsense-rust](https://github.com/Tangram-Vision/realsense-rust) - RealSense Bindings for Rust
