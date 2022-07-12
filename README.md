@@ -16,6 +16,10 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [rustros_tf](https://github.com/arjo129/rustros_tf) - A rust implmentation of the Tf library.
 * [optimization-engine](https://alphaville.github.io/optimization-engine/) - Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems
 
+## AI
+
+* [bonsai-bt](https://github.com/Sollimann/bonsai) - A Behavior Tree implementation in Rust
+
 ## Framework
 
 * [OpenRR](https://github.com/openrr/openrr) - Open Rust Robotics
