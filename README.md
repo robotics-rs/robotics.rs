@@ -57,6 +57,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 
 * [kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 * [urdf-viz](https://github.com/openrr/urdf-viz) - URDF visualizer
+* [rerun](https://github.com/rerun-io/rerun) — A logging SDK and visualizer for computer vision and robotics
 
 ## File Loading
 
