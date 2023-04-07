@@ -60,6 +60,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 *Physics simulation for robots*
 
 * [rapier](https://github.com/dimforge/rapier) - 2 and 3-dimensional rigid body physics engine for Rust.
+* [Rust zmqRemoteApi](https://github.com/samuel-cavalcanti/rust_zmqRemoteApi) - A Rust ZeroMQ remote API client for [coppeliasim robotics simulator](https://www.coppeliarobotics.com/)
 
 ## Visualization
 
