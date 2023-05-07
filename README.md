@@ -14,6 +14,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [RustDDS](https://github.com/jhelovuo/RustDDS) - Rust implementation of Data Distribution Service
 * [rosbag](https://github.com/SkoltechRobotics/rosbag-rs) - Reading rosbag files in pure Rust
 * [rustros_tf](https://github.com/arjo129/rustros_tf) - A rust implmentation of the Tf library.
+* [ros_pointcloud2](https://github.com/stelzo/ros_pointcloud2) - The safe way of using PointCloud2 messages in ROS1 and ROS2.
 * [optimization-engine](https://alphaville.github.io/optimization-engine/) - Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems
 
 ## AI
