@@ -23,8 +23,8 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 
 ## Framework
 
+* [dora-rs](https://github.com/dora-rs/dora) - A fast and simple robotics frameworks for AI.
 * [OpenRR](https://github.com/openrr/openrr) - Open Rust Robotics
-
 * [Zenoh](https://zenoh.io) - A high performance and extremely low overhead Pub/Sub/Query protocol. Quickly becoming the protocol of choice for Robot-to-Anything communication. 
 
 ## gRPC
