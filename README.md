@@ -81,6 +81,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [libsweep](https://github.com/andygrove/libsweep-rs) - Rust wrapper for Scanse Sweep LIDAR libsweep
 * [freenect-rs](https://github.com/Entscheider/freenect-rs) - Freenect wrapper for rust
 * [rplidar-rs](https://github.com/cnwzhjs/rplidar.rs) - Slamtec RPLIDAR public SDK for Rust
+* [hls_lfcd_lds_rs](https://github.com/gabrik/hls_lfcd_lds_rs) -  ROBOTIS HLDS HLS-LFCD-LDS SDK for RUST
 * [dynpick-force-torque-sensor](https://github.com/Amelia10007/dynpick-force-torque-sensor-rs) - Wacoh-tech 6-axis force sensor (Dynpick) driver
 * [leptrino-force-torque-sensor](https://github.com/Amelia10007/leptrino-force-torque-sensor-rs) - Leptrino 6-axis force sensor driver
 * [realsense-rust](https://github.com/Tangram-Vision/realsense-rust) - RealSense Bindings for Rust
