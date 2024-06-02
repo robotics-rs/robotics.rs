@@ -51,6 +51,8 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [pathfinding](https://github.com/samueltardieu/pathfinding) - Pathfinding library for rust
 * [rrt](https://github.com/openrr/rrt) - RRT (Rapidly-exploring Random Tree) library in Rust
 * [openrr-planner](https://github.com/openrr/openrr) - Collision Avoidance Path Planning in Rust-lang
+* [rs-opw-kinematics](https://github.com/bourumir-wyngs/rs-opw-kinematics) - Analytical inverse and forward kinematics
+  for the 6DOF robots with spherical wrist.
 
 ## Simulation
 
