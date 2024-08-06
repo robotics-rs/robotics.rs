@@ -23,6 +23,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 
 ## Framework
 
+* [copper](https://github.com/copper-project/copper-rs) - Copper is a user-friendly robotics framework designed for creating fast and reliable robots. Copper is to robots what a game engine is to games.
 * [dora-rs](https://github.com/dora-rs/dora) - A fast and simple robotics frameworks for AI.
 * [OpenRR](https://github.com/openrr/openrr) - Open Rust Robotics
 * [Zenoh](https://zenoh.io) - A high performance and extremely low overhead Pub/Sub/Query protocol. Quickly becoming the protocol of choice for Robot-to-Anything communication. 
