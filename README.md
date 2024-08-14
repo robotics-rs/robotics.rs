@@ -71,6 +71,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 *Import/Export various files related with Robotics*
 
 * [assimp-rs (open-asset-importer)](https://github.com/Vurich/assimp-rs) - Rust bindings for the [Assimp](http://www.assimp.org/) library.
+* [mcap](https://github.com/foxglove/mcap/tree/main/rust) - Rust library for reading and writing [MCAP](https://mcap.dev/) log files
 * [urdf-rs](https://github.com/OTL/urdf-rs) - URDF Loader for Rust
 * [pcd-ros](https://github.com/jerry73204/pcd-rs) - Read point cloud data from PCD file format
 
