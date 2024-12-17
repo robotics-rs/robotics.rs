@@ -16,6 +16,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [rustros_tf](https://github.com/arjo129/rustros_tf) - A rust implementation of the Tf library.
 * [ros_pointcloud2](https://github.com/stelzo/ros_pointcloud2) - The safe way of using PointCloud2 messages in ROS1 and ROS2.
 * [optimization-engine](https://alphaville.github.io/optimization-engine/) - Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems
+* [safe_drive](https://github.com/tier4/safe_drive) - safe_drive: Formally Specified Rust Bindings for ROS2
 
 ## AI
 
@@ -45,6 +46,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [k](https://github.com/OTL/k) -  k: Kinematics Library for rust-lang.
 * [static-math](https://github.com/elsuizo/static-math) - Safe and fast mathematical operations with static arrays in Rust programming language thinked for robotics
 * [ndarray](https://github.com/rust-ndarray/ndarray) - N-dimensional tensor arithmetic library, inspired by python's NumPy.
+* [faer-rs](https://github.com/sarah-quinones/faer-rs) - Linear algebra foundation for the Rust programming language
 
 ## Path Planning
 
