@@ -46,6 +46,16 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [k](https://github.com/OTL/k) -  k: Kinematics Library for rust-lang.
 * [static-math](https://github.com/elsuizo/static-math) - Safe and fast mathematical operations with static arrays in Rust programming language thinked for robotics
 * [ndarray](https://github.com/rust-ndarray/ndarray) - N-dimensional tensor arithmetic library, inspired by python's NumPy.
+* [faer-rs](https://github.com/sarah-quinones/faer-rs) - Linear algebra foundation for the Rust programming language.
+* [tiny-solver](https://github.com/powei-lin/tiny-solver-rs) - General non-linear least-square problem solver.
+* [factrs](https://github.com/rpl-cmu/factrs) - Factor graph optimization.
+
+## Computer Vision
+* [kornia-rs](https://github.com/kornia/kornia-rs) - Low-level 3D Computer Vision library in Rust.
+* [patch-tracker-rs](https://github.com/powei-lin/patch-tracker-rs) - Keypoint tracker.
+* [camera-intrinsic-calibration](https://github.com/powei-lin/camera-intrinsic-calibration-rs) - Camera intrinsic calibration tool.
+* [camera-intrinsic-model](https://github.com/powei-lin/camera-intrinsic-model-rs) Camera models for distortion and undistortion.
+* [aprilgrid](https://github.com/powei-lin/aprilgrid-rs) - Aprilgrid detector.
 
 ## Path Planning
 
