@@ -81,6 +81,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 
 * [image](https://github.com/image-rs/image) - An image processing library
 * [cv](https://github.com/rust-cv/cv) - Implementation of computer vision algorithms, abstractions, and systems in Rust
+* [kornia-rs](https://github.com/kornia/kornia-rs) - Low-level 3D Computer Vision library in Rust
 * [opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindgens for [OpenCV](https://opencv.org)
 
 ## File Loading
