@@ -75,6 +75,14 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [urdf-viz](https://github.com/openrr/urdf-viz) - URDF visualizer
 * [rerun](https://github.com/rerun-io/rerun) — A logging SDK and visualizer for computer vision and robotics
 
+## Computer Vision
+
+*Libraries useful for Computer Vision*
+
+* [image](https://github.com/image-rs/image) - An image processing library
+* [cv](https://github.com/rust-cv/cv) - Implementation of computer vision algorithms, abstractions, and systems in Rust
+* [opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindgens for [OpenCV](https://opencv.org)
+
 ## File Loading
 
 *Import/Export various files related with Robotics*
