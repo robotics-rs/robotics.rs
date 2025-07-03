@@ -94,3 +94,9 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [dynpick-force-torque-sensor](https://github.com/Amelia10007/dynpick-force-torque-sensor-rs) - Wacoh-tech 6-axis force sensor (Dynpick) driver
 * [leptrino-force-torque-sensor](https://github.com/Amelia10007/leptrino-force-torque-sensor-rs) - Leptrino 6-axis force sensor driver
 * [realsense-rust](https://github.com/Tangram-Vision/realsense-rust) - RealSense Bindings for Rust
+
+## Vision
+
+*Computer Vision and Image processing libraries*
+
+* [kornia-rs](https://github.com/kornia/kornia-rs) - Low-level 3D Computer Vision library in Rust
