@@ -11,6 +11,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [roslibrust](https://github.com/Carter12s/roslibrust) - Pure Rust implementation of a [rosbridge](https://github.com/RobotWebTools/rosbridge_suite) client.
 * [r2r](https://github.com/sequenceplanner/r2r) - Minimal ROS2 Rust bindings
 * [rclrust](https://github.com/rclrust/rclrust) - Yet another ROS2 Rust client
+* [ros2-client](https://github.com/Atostek/ros2-client) - Rust native client library for ROS2
 * [RustDDS](https://github.com/jhelovuo/RustDDS) - Rust implementation of Data Distribution Service
 * [rosbag](https://github.com/SkoltechRobotics/rosbag-rs) - Reading rosbag files in pure Rust
 * [rustros_tf](https://github.com/arjo129/rustros_tf) - A rust implementation of the Tf library.
@@ -73,6 +74,15 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 * [urdf-viz](https://github.com/openrr/urdf-viz) - URDF visualizer
 * [rerun](https://github.com/rerun-io/rerun) — A logging SDK and visualizer for computer vision and robotics
+
+## Computer Vision
+
+*Libraries useful for Computer Vision*
+
+* [image](https://github.com/image-rs/image) - An image processing library
+* [cv](https://github.com/rust-cv/cv) - Implementation of computer vision algorithms, abstractions, and systems in Rust
+* [kornia-rs](https://github.com/kornia/kornia-rs) - Low-level 3D Computer Vision library in Rust
+* [opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindgens for [OpenCV](https://opencv.org)
 
 ## File Loading
 
