@@ -15,6 +15,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [rosbag](https://github.com/SkoltechRobotics/rosbag-rs) - Reading rosbag files in pure Rust
 * [rustros_tf](https://github.com/arjo129/rustros_tf) - A rust implementation of the Tf library.
 * [ros_pointcloud2](https://github.com/stelzo/ros_pointcloud2) - The safe way of using PointCloud2 messages in ROS1 and ROS2.
+* [rmw_iceoryx2](https://github.com/ekxide/rmw_iceoryx2) - A ROS 2 RMW implementation based on iceoryx2
 * [optimization-engine](https://alphaville.github.io/optimization-engine/) - Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems
 * [safe_drive](https://github.com/tier4/safe_drive) - safe_drive: Formally Specified Rust Bindings for ROS2
 * [transforms](https://github.com/deniz-hofmeister/transforms) - A minimal and stand-alone crate inspired by the ROS2 tf library, but not dependent on ROS or middleware
@@ -28,6 +29,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [HORUS](https://github.com/softmata/horus) - Hybrid Optimized Robotics Unified System, a real-time Rust robotics framework for next-generation robot control.
 * [copper](https://github.com/copper-project/copper-rs) - Copper is a user-friendly robotics framework designed for creating fast and reliable robots. Copper is to robots what a game engine is to games.
 * [dora-rs](https://github.com/dora-rs/dora) - A fast and simple robotics frameworks for AI.
+* [iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - A true zero-copy inter-process communication middleware with a sub microsecond latency for safety-critical applications
 * [OpenRR](https://github.com/openrr/openrr) - Open Rust Robotics
 * [Zenoh](https://zenoh.io) - A high performance and extremely low overhead Pub/Sub/Query protocol. Quickly becoming the protocol of choice for Robot-to-Anything communication. 
 * [Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework
