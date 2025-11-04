@@ -22,6 +22,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 ## AI
 
 * [bonsai-bt](https://github.com/Sollimann/bonsai) - A Behavior Tree implementation in Rust
+* [crossflow](https://github.com/open-rmf/crossflow) - A petri-net like library for bevy.
 
 ## Framework
 
@@ -53,6 +54,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 
 *Path planning libraries.*
 
+* [mapf](https://github.com/open-rmf/mapf) - Multi-Agent Pathfinding Library
 * [pathfinding](https://github.com/samueltardieu/pathfinding) - Pathfinding library for rust
 * [rrt](https://github.com/openrr/rrt) - RRT (Rapidly-exploring Random Tree) library in Rust
 * [openrr-planner](https://github.com/openrr/openrr) - Collision Avoidance Path Planning in Rust-lang
@@ -65,6 +67,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 
 * [rapier](https://github.com/dimforge/rapier) - 2 and 3-dimensional rigid body physics engine for Rust.
 * [Rust zmqRemoteApi](https://github.com/samuel-cavalcanti/rust_zmqRemoteApi) - A Rust ZeroMQ remote API client for [coppeliasim robotics simulator](https://www.coppeliarobotics.com/)
+* [wgpu_rt_lidar](https://github.com/arjo129/wgpu_rt_lidar) - A rust implementation of raytracing based lidars.
 
 ## Visualization
 
@@ -73,6 +76,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 * [urdf-viz](https://github.com/openrr/urdf-viz) - URDF visualizer
 * [rerun](https://github.com/rerun-io/rerun) — A logging SDK and visualizer for computer vision and robotics
+* [rmf_site](https://github.com/open-rmf/rmf_site) - Robot Traffic Layout Tool
 
 ## File Loading
 
@@ -82,6 +86,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [mcap](https://github.com/foxglove/mcap/tree/main/rust) - Rust library for reading and writing [MCAP](https://mcap.dev/) log files
 * [urdf-rs](https://github.com/OTL/urdf-rs) - URDF Loader for Rust
 * [pcd-ros](https://github.com/jerry73204/pcd-rs) - Read point cloud data from PCD file format
+* [sdformat](https://github.com/open-rmf/sdformat_rust) - SDFormat parser
 
 ## Device Driver
 
