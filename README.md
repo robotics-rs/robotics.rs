@@ -24,7 +24,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [bonsai-bt](https://github.com/Sollimann/bonsai) - A Behavior Tree implementation in Rust
 
 ## Framework
-
+* [HORUS](https://github.com/softmata/horus) - Hybrid Optimized Robotics Unified System, a real-time Rust robotics framework for next-generation robot control.
 * [copper](https://github.com/copper-project/copper-rs) - Copper is a user-friendly robotics framework designed for creating fast and reliable robots. Copper is to robots what a game engine is to games.
 * [dora-rs](https://github.com/dora-rs/dora) - A fast and simple robotics frameworks for AI.
 * [OpenRR](https://github.com/openrr/openrr) - Open Rust Robotics
