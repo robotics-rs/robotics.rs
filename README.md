@@ -6,11 +6,15 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 
 *[ROS](http://www.ros.org/) related libraries.*
 
+*ROS(1) & ROS2:*
 * [rosrust](https://github.com/adnanademovic/rosrust) - Pure Rust implementation of a ROS client library.
-* [ros2_rust](https://github.com/ros2-rust/ros2_rust) -  Rust bindings for ROS2
 * [roslibrust](https://github.com/Carter12s/roslibrust) - Pure Rust implementation of a [rosbridge](https://github.com/RobotWebTools/rosbridge_suite) client.
+* [ros2_rust](https://github.com/ros2-rust/ros2_rust) -  Rust bindings for ROS2
 * [r2r](https://github.com/sequenceplanner/r2r) - Minimal ROS2 Rust bindings
-* [rclrust](https://github.com/rclrust/rclrust) - Yet another ROS2 Rust client
+* [ros2-client](https://github.com/Atostek/ros2-client) - Rust native client library for ROS2
+* [rclrust](https://github.com/rclrust/rclrust) - Yet another ROS2 Rust client (Archived)
+
+*Various*
 * [RustDDS](https://github.com/jhelovuo/RustDDS) - Rust implementation of Data Distribution Service
 * [rosbag](https://github.com/SkoltechRobotics/rosbag-rs) - Reading rosbag files in pure Rust
 * [rustros_tf](https://github.com/arjo129/rustros_tf) - A rust implementation of the Tf library.
