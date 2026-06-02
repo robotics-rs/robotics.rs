@@ -34,6 +34,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [OpenRR](https://github.com/openrr/openrr) - Open Rust Robotics
 * [Zenoh](https://zenoh.io) - A high performance and extremely low overhead Pub/Sub/Query protocol. Quickly becoming the protocol of choice for Robot-to-Anything communication. 
 * [Peng](https://github.com/makeecat/Peng) - A minimal quadrotor autonomy framework
+* [erdos](https://github.com/erdos-project/erdos) - A dataflow platform for self-driving cars and robotics
 
 ## gRPC
 
@@ -52,6 +53,8 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [static-math](https://github.com/elsuizo/static-math) - Safe and fast mathematical operations with static arrays in Rust programming language thinked for robotics
 * [ndarray](https://github.com/rust-ndarray/ndarray) - N-dimensional tensor arithmetic library, inspired by python's NumPy.
 * [faer-rs](https://github.com/sarah-quinones/faer-rs) - Linear algebra foundation for the Rust programming language
+* [sophus-rs](https://github.com/sophus-vision/sophus-rs) - Geometry library for robotics with Lie groups (SO3, SE3), splines, and automatic differentiation
+* [factrs](https://github.com/rpl-cmu/factrs) - Factor graph optimization library for robotics
 
 ## Path Planning
 
@@ -111,6 +114,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [dynpick-force-torque-sensor](https://github.com/Amelia10007/dynpick-force-torque-sensor-rs) - Wacoh-tech 6-axis force sensor (Dynpick) driver
 * [leptrino-force-torque-sensor](https://github.com/Amelia10007/leptrino-force-torque-sensor-rs) - Leptrino 6-axis force sensor driver
 * [realsense-rust](https://github.com/Tangram-Vision/realsense-rust) - RealSense Bindings for Rust
+* [ethercrab](https://github.com/ethercrab-rs/ethercrab) - Pure Rust EtherCAT MainDevice supporting `std` and `no_std` environments
 
 ## Vision
 
