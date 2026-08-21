@@ -27,6 +27,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [crossflow](https://github.com/open-rmf/crossflow) - A petri-net like library for bevy.
 
 ## Framework
+* [RRTK](http://rrtk.org) - Rust Robotics ToolKit: A data flow-based robotics framework designed for embedded systems.
 * [HORUS](https://github.com/softmata/horus) - Hybrid Optimized Robotics Unified System, a real-time Rust robotics framework for next-generation robot control.
 * [copper](https://github.com/copper-project/copper-rs) - Copper is a user-friendly robotics framework designed for creating fast and reliable robots. Copper is to robots what a game engine is to games.
 * [dora-rs](https://github.com/dora-rs/dora) - A fast and simple robotics frameworks for AI.
