@@ -72,6 +72,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [rapier](https://github.com/dimforge/rapier) - 2 and 3-dimensional rigid body physics engine for Rust.
 * [Rust zmqRemoteApi](https://github.com/samuel-cavalcanti/rust_zmqRemoteApi) - A Rust ZeroMQ remote API client for [coppeliasim robotics simulator](https://www.coppeliarobotics.com/)
 * [wgpu_rt_lidar](https://github.com/arjo129/wgpu_rt_lidar) - A rust implementation of raytracing based lidars.
+* [MuJoCo-rs](https://github.com/davidhozic/mujoco-rs) - High-level safe Rust wrappers around [MuJoCo](https://github.com/google-deepmind/mujoco), a general purpose physics simulator/engine.
 
 ## Visualization
 
