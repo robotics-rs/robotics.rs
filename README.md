@@ -20,6 +20,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [optimization-engine](https://alphaville.github.io/optimization-engine/) - Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems
 * [safe_drive](https://github.com/tier4/safe_drive) - safe_drive: Formally Specified Rust Bindings for ROS2
 * [transforms](https://github.com/deniz-hofmeister/transforms) - A minimal and stand-alone crate inspired by the ROS2 tf library, but not dependent on ROS or middleware
+* [batchplan-ros](https://github.com/natsuku-lab/batchplan-ros) - ROS 2 Jazzy integration for batchplan, with MoveIt-compatible actions and services and an optional MoveIt planner plugin.
 
 ## AI
 
@@ -64,6 +65,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [openrr-planner](https://github.com/openrr/openrr) - Collision Avoidance Path Planning in Rust-lang
 * [rs-opw-kinematics](https://github.com/bourumir-wyngs/rs-opw-kinematics) - Analytical inverse and forward kinematics
   for the 6DOF robots with spherical wrist.
+* [batchplan](https://github.com/natsuku-lab/batchplan) - Batched collision-aware motion planning in Rust, with CPU execution and optional wgpu acceleration for IK and trajectory optimization.
 
 ## Simulation
 
